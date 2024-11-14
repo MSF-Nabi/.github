@@ -1,6 +1,6 @@
 <img src="./images/NabiTitle.png" width="100%" />
 
-🏆 **2024학년도 창의적 SW프로그램 경진대회 - SW개발부문 '대상' 수상작** 🏆
+🏆 **2024학년도 명지대학교 창의적 SW프로그램 경진대회 - SW개발부문 '대상' 수상작** 🏆
 
 <p align="center">
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
