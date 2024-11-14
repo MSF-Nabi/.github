@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
-      <img src="./images/시상식기사.png" width="20%" />
+      <img src="./images/NabiAppStore.png" width="20%" />
     </a>
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
-      <img src="./images/시상식기사.png" width="20%" />
+      <img src="./images/NabiGooglePlay.png" width="20%" />
     </a>
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
-      <img src="./images/시상식기사.png" width="20%" />
+      <img src="./images/NabiWeb.png" width="20%" />
     </a>
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
       <img src="./images/시상식기사.png" width="20%" />
