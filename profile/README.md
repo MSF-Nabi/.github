@@ -1,6 +1,6 @@
 <img src="./images/NabiTitle.png" width="100%" />
 
-🏆 **2024학년도 명지대학교 창의적 SW프로그램 경진대회 - SW개발부문 '대상' 수상작** 🏆
+🏆 [**2024학년도 명지대학교 창의적 SW프로그램 경진대회 - SW개발부문 '대상' 수상작**](https://aict.mju.ac.kr/aict/9557/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYWljdCUyRjEzOTQlMkYyMTQ4NjIlMkZhcnRjbFZpZXcuZG8lM0ZwYWdlJTNEMSUyNnNyY2hDb2x1bW4lM0QlMjZzcmNoV3JkJTNEJTI2YmJzQ2xTZXElM0QlMjZiYnNPcGVuV3JkU2VxJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZyZ3NFbmRkZVN0ciUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNmlzVmlldyUzRHRydWUlMjZwYXNzd29yZCUzRCUyNg%3D%3D) 🏆
 
 <p align="center">
     <a href="https://news.unn.net/news/articleView.html?idxno=569851">
